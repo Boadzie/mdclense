@@ -29,13 +29,14 @@
 ## Installation
 
 ```bash
-pip install unmarked
+pip install mdclense
 ```
 
 ## Quick Start
 
 ```python
-from unmarked import MarkdownParser
+from mdclense.parser import MarkdownParser
+
 
 # Create a parser instance
 parser = MarkdownParser()
