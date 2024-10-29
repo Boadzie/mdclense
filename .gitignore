@@ -1,1 +1,4 @@
 venv/
+tests/__pycache__/
+src/mdclense/__pycache__/
+.pytest_cache/
