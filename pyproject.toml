@@ -1,6 +1,9 @@
 [project]
 name = "mdclense"
 version = "0.1.1"
+authors = [
+  { name="Daniel Boadzie", email="boadziedaniel43@gmail.com" },
+]
 description = "A library for cleaning, stripping markdown and converting it to text"
 readme = "README.md"
 requires-python = ">=3.11"
